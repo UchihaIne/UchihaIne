@@ -1,7 +1,6 @@
 # Hi, I'm Emiliano Comi 👋
 
-![Matrix Cat](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a181109f-16e5-4bc2-8e57-b8fa8b6f46ad" />
-)
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNzNjZvZWc3ZWwzMWQ4MzJqc2w5NDVqanR5azE4NnJkYzNjdmE4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
 
 I'm Emiliano Comi, a Computer Science student at Universidad Tecnológica Nacional (UTN) with a strong interest in **hardware design, microprocessor architecture, and low-level programming**.
