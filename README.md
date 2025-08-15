@@ -1,5 +1,6 @@
 # Hi, I'm Emiliano Comi 👋
-
+<a target="_blank" align="center">
+<img align="right" top="450" height="300" width="400" alt="GIF" 
 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNzNjZvZWc3ZWwzMWQ4MzJqc2w5NDVqanR5azE4NnJkYzNjdmE4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
 
 
