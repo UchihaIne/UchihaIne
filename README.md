@@ -10,7 +10,7 @@ I'm Emiliano Comi, a Computer Science student at Universidad Tecnológica Nacion
 
 ## 🔧 Skills & Tools
 - **Languages:
-- <imag src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 - **Tools:** Git, Excel Advanced, PSeInt
 - **Hardware:** PC assembly, troubleshooting, optimization
 
