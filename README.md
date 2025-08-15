@@ -1,21 +1,30 @@
-<h1 align="center"><b>Hi , I'm Emiliano Comi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a target="_blank" align="center">
-<img align="right" top="450" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNzNjZvZWc3ZWwzMWQ4MzJqc2w5NDVqanR5azE4NnJkYzNjdmE4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif">
-Hi, I'm Emiliano Comi, and I'm excited to start my journey in the world of development! I'll be sharing projects here to show what I can do.
+# Hi, I'm Emiliano Comi 👋
 
-  ## 🔧 Skills
-- Lenguajes: C, Python, VBA, Bash
-- Herramientas: Git, Excel avanzado, PSeInt
-- Hardware: Ensamblaje, diagnóstico y optimización de PC
+![Matrix Cat](https://raw.githubusercontent.com/UchihaIne/UchihaIne/main/matrix_cat.png) <!-- Usa la imagen que ya tienes en tu repo -->
 
-## 📂 Proyectos
-- [Sistema de inventario en C](link) – Programa para gestionar stock y ventas.
-- [Macros en Excel para automatizar reportes](link).
+I'm Emiliano Comi, a Computer Science student at Universidad Tecnológica Nacional (UTN) with a strong interest in **hardware design, microprocessor architecture, and low-level programming**.
 
-## 🎯 Objetivo
-Convertirme en Ingeniero de Hardware, trabajando en diseño y optimización de microprocesadores.
+---
 
+## 🔧 Skills & Tools
+- **Languages:** C, Python, VBA, Bash
+- **Tools:** Git, Excel Advanced, PSeInt
+- **Hardware:** PC assembly, troubleshooting, optimization
 
+---
 
+## 📂 Featured Projects
+- **[Inventory Management in C](#)** – A basic CLI program for stock and sales management.
+- **[Excel VBA Automation](#)** – Scripts to automate report generation and data analysis.
+- **[PSeInt Algorithms](#)** – Academic projects covering loops, arrays, and conditionals.
 
+---
 
+## 🎯 Career Goal
+To become a Hardware Architect or Staff Engineer, contributing to innovation in companies like **AMD** or **Intel**.
+
+---
+
+💌 **Contact me:**  
+📧 ineuchiha@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/emiliano-comi-240374335/)  
